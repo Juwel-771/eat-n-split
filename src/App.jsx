@@ -1,4 +1,5 @@
 import './App.css'
+import FormAddFrined from './component/FormAddFrined';
 import FriendList from './component/FriendList';
 
 
@@ -8,6 +9,7 @@ function App() {
     <div className='app'>
       <div className='sidebar'>
         <FriendList></FriendList>
+        <FormAddFrined></FormAddFrined>
       </div>
     </div>
   )
