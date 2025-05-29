@@ -10,7 +10,7 @@ const FormAddFrined = () => {
             <label>🖼 Image: </label>
             <input type="text" />
 
-            <Button>Add</Button>
+            <Button>Add Friend</Button>
         </form>
     );
 };
